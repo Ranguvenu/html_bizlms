@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019052008.6"><category><![CDATA[enduser]]></category>
+<visible><![CDATA[1]]></visible>
+<name><![CDATA[My Certification]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[mycertification]]></type>
+<components><![CDATA[]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<enablestatistics><![CDATA[0]]></enablestatistics>
+</report>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019052008.6"><category><![CDATA[local_classroom]]></category>
+<visible><![CDATA[1]]></visible>
+<name><![CDATA[Classroom Overview Stats]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[statsclassroomoverview]]></type>
+<components><![CDATA[YTo1OntpOjA7czowOiIiO3M6NzoiY29sdW1ucyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjEwOntpOjA7YTo2OntzOjI6ImlkIjtzOjE1OiJ4VzdIeUxySzJSUzJSYWQiO3M6MTA6InBsdWdpbm5hbWUiO3M6MjE6InN0YXRzY2xhc3Nyb29tY29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NDE6IiUyNTVCJTI1NUJzdGF0c2NsYXNzcm9vbWNvbHVtbnMlMjU1RCUyNTVEIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjQ6InR5cGUiO3M6MTU6InNlbGVjdGVkY29sdW1ucyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NDp7czo1OiJ2YWx1ZSI7YjoxO3M6OToiY29sdW1uYW1lIjtzOjE2OiJUb3RhbCtDbGFzc3Jvb21zIjtzOjY6ImNvbHVtbiI7czoxNToidG90YWxjbGFzc3Jvb21zIjtzOjc6ImhlYWRpbmciO3M6MjE6InN0YXRzY2xhc3Nyb29tY29sdW1ucyI7fX1pOjE7YTo2OntzOjI6ImlkIjtzOjE1OiJiTlRyMmRwY0dYUjVPTEUiO3M6MTA6InBsdWdpbm5hbWUiO3M6MjE6InN0YXRzY2xhc3Nyb29tY29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NDE6IiUyNTVCJTI1NUJzdGF0c2NsYXNzcm9vbWNvbHVtbnMlMjU1RCUyNTVEIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjQ6InR5cGUiO3M6MTU6InNlbGVjdGVkY29sdW1ucyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NDp7czo1OiJ2YWx1ZSI7YjoxO3M6OToiY29sdW1uYW1lIjtzOjEyOiJVbitwdWJsaXNoZWQiO3M6NjoiY29sdW1uIjtzOjE3OiJuZXdjbGFzc3Jvb21jb3VudCI7czo3OiJoZWFkaW5nIjtzOjIxOiJzdGF0c2NsYXNzcm9vbWNvbHVtbnMiO319aToyO2E6Njp7czoyOiJpZCI7czoxNToiVUZpUnpkS0xUczZYN1A0IjtzOjEwOiJwbHVnaW5uYW1lIjtzOjIxOiJzdGF0c2NsYXNzcm9vbWNvbHVtbnMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjQxOiIlMjU1QiUyNTVCc3RhdHNjbGFzc3Jvb21jb2x1bW5zJTI1NUQlMjU1RCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjQ6e3M6NToidmFsdWUiO2I6MTtzOjk6ImNvbHVtbmFtZSI7czoxMjoiVG90YWwrQWN0aXZlIjtzOjY6ImNvbHVtbiI7czoxMToidG90YWxhY3RpdmUiO3M6NzoiaGVhZGluZyI7czoyMToic3RhdHNjbGFzc3Jvb21jb2x1bW5zIjt9fWk6MzthOjY6e3M6MjoiaWQiO3M6MTU6IlREakltME9zeWMxTU1pNyI7czoxMDoicGx1Z2lubmFtZSI7czoyMToic3RhdHNjbGFzc3Jvb21jb2x1bW5zIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czo0MToiJTI1NUIlMjU1QnN0YXRzY2xhc3Nyb29tY29sdW1ucyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo0OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTA6IlRvdGFsK0hvbGQiO3M6NjoiY29sdW1uIjtzOjk6InRvdGFsaG9sZCI7czo3OiJoZWFkaW5nIjtzOjIxOiJzdGF0c2NsYXNzcm9vbWNvbHVtbnMiO319aTo0O2E6Njp7czoyOiJpZCI7czoxNToiV0JvSzJlTUdwNnptc0g1IjtzOjEwOiJwbHVnaW5uYW1lIjtzOjIxOiJzdGF0c2NsYXNzcm9vbWNvbHVtbnMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjQxOiIlMjU1QiUyNTVCc3RhdHNjbGFzc3Jvb21jb2x1bW5zJTI1NUQlMjU1RCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjQ6e3M6NToidmFsdWUiO2I6MTtzOjk6ImNvbHVtbmFtZSI7czoxNToiVG90YWwrQ2FuY2VsbGVkIjtzOjY6ImNvbHVtbiI7czoxNDoidG90YWxjYW5jZWxsZWQiO3M6NzoiaGVhZGluZyI7czoyMToic3RhdHNjbGFzc3Jvb21jb2x1bW5zIjt9fWk6NTthOjY6e3M6MjoiaWQiO3M6MTU6IjB6TTFLVldVeHZpOGhIaSI7czoxMDoicGx1Z2lubmFtZSI7czoyMToic3RhdHNjbGFzc3Jvb21jb2x1bW5zIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czo0MToiJTI1NUIlMjU1QnN0YXRzY2xhc3Nyb29tY29sdW1ucyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo0OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTU6IlRvdGFsK0NvbXBsZXRlZCI7czo2OiJjb2x1bW4iO3M6MTQ6InRvdGFsY29tcGxldGVkIjtzOjc6ImhlYWRpbmciO3M6MjE6InN0YXRzY2xhc3Nyb29tY29sdW1ucyI7fX1pOjY7YTo2OntzOjI6ImlkIjtzOjE1OiJQVk13UTV2VUM3aG03NnIiO3M6MTA6InBsdWdpbm5hbWUiO3M6MjE6InN0YXRzY2xhc3Nyb29tY29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NDE6IiUyNTVCJTI1NUJzdGF0c2NsYXNzcm9vbWNvbHVtbnMlMjU1RCUyNTVEIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjQ6InR5cGUiO3M6MTU6InNlbGVjdGVkY29sdW1ucyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NDp7czo1OiJ2YWx1ZSI7YjoxO3M6OToiY29sdW1uYW1lIjtzOjE3OiJObytvZitlbnJvbGxtZW50cyI7czo2OiJjb2x1bW4iO3M6MTU6Im5vb2ZlbnJvbGxtZW50cyI7czo3OiJoZWFkaW5nIjtzOjIxOiJzdGF0c2NsYXNzcm9vbWNvbHVtbnMiO319aTo3O2E6Njp7czoyOiJpZCI7czoxNToiSHl6bERaQXQ3MUxZMVdvIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjIxOiJzdGF0c2NsYXNzcm9vbWNvbHVtbnMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjQxOiIlMjU1QiUyNTVCc3RhdHNjbGFzc3Jvb21jb2x1bW5zJTI1NUQlMjU1RCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjQ6e3M6NToidmFsdWUiO2I6MTtzOjk6ImNvbHVtbmFtZSI7czoxNzoiTm8rb2YrY29tcGxldGlvbnMiO3M6NjoiY29sdW1uIjtzOjE1OiJub29mY29tcGxldGlvbnMiO3M6NzoiaGVhZGluZyI7czoyMToic3RhdHNjbGFzc3Jvb21jb2x1bW5zIjt9fWk6ODthOjY6e3M6MjoiaWQiO3M6MTU6InU0U09sd0JJaWFGQ3JBciI7czoxMDoicGx1Z2lubmFtZSI7czoyMToic3RhdHNjbGFzc3Jvb21jb2x1bW5zIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czo0MToiJTI1NUIlMjU1QnN0YXRzY2xhc3Nyb29tY29sdW1ucyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo0OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTQ6IlRvdGFsK1Nlc3Npb25zIjtzOjY6ImNvbHVtbiI7czoxMzoidG90YWxzZXNzaW9ucyI7czo3OiJoZWFkaW5nIjtzOjIxOiJzdGF0c2NsYXNzcm9vbWNvbHVtbnMiO319aTo5O2E6Njp7czoyOiJpZCI7czoxNToiYnE1VlhuRnJpcDM3NXNMIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjIxOiJzdGF0c2NsYXNzcm9vbWNvbHVtbnMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjQxOiIlMjU1QiUyNTVCc3RhdHNjbGFzc3Jvb21jb2x1bW5zJTI1NUQlMjU1RCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjQ6e3M6NToidmFsdWUiO2I6MTtzOjk6ImNvbHVtbmFtZSI7czoyMjoiUGVyY2VudCtvZitjb21wbGV0aW9ucyI7czo2OiJjb2x1bW4iO3M6MjA6InBlcmNlbnRvZmNvbXBsZXRpb25zIjtzOjc6ImhlYWRpbmciO3M6MjE6InN0YXRzY2xhc3Nyb29tY29sdW1ucyI7fX19fXM6NzoiZmlsdGVycyI7YToxOntzOjg6ImVsZW1lbnRzIjtOO31zOjEyOiJjYWxjdWxhdGlvbnMiO2E6MTp7czo4OiJlbGVtZW50cyI7Tjt9czo4OiJvcmRlcmluZyI7YToxOntzOjg6ImVsZW1lbnRzIjtOO319]]></components>
+<export><![CDATA[csv]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<enablestatistics><![CDATA[1]]></enablestatistics>
+<instance version="2019052008.6"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Classroom]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1694197262]]></timecreated>
+<timemodified><![CDATA[1694197262]]></timemodified>
+<title><![CDATA[Classroom Overview Stats]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[0]]></logo>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Classroom]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1694669586]]></timecreated>
+<timemodified><![CDATA[1694669586]]></timemodified>
+<title><![CDATA[Classroom Overview Stats]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[0]]></logo>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[2023-24_Report]]></subpagepattern>
+<defaultregion><![CDATA[side-db-third]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1695138378]]></timecreated>
+<timemodified><![CDATA[1695138378]]></timemodified>
+<title><![CDATA[Classroom Overview Stats]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[0]]></logo>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-four]]></defaultregion>
+<defaultweight><![CDATA[-2]]></defaultweight>
+<timecreated><![CDATA[1717491419]]></timecreated>
+<timemodified><![CDATA[1717492865]]></timemodified>
+<title><![CDATA[Classroom Overview Stats]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[0]]></logo>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-second]]></defaultregion>
+<defaultweight><![CDATA[9]]></defaultweight>
+<timecreated><![CDATA[1717503588]]></timecreated>
+<timemodified><![CDATA[1717503857]]></timemodified>
+<title><![CDATA[Classroom Overview Stats]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[0]]></logo>
+</instance><position version="2019052008.6"></position></report>

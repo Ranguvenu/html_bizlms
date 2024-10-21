@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019052008.6"><category><![CDATA[local_onlineexams]]></category>
+<visible><![CDATA[1]]></visible>
+<name><![CDATA[Online exams completion]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[onlinetestscompletions]]></type>
+<components><![CDATA[YTo2OntpOjA7czowOiIiO3M6NzoiY29sdW1ucyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjU6e2k6MDthOjY6e3M6MjoiaWQiO3M6MTU6IlN6V3pySXNuOHRTUzBUZyI7czoxMDoicGx1Z2lubmFtZSI7czoyOToib25saW5ldGVzdHNjb21wbGV0aW9uc2NvbHVtbnMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjI5OiJPbmxpbmVleGFtc2NvbXBsZXRpb25zY29sdW1ucyI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjQ6e3M6NToidmFsdWUiO2I6MTtzOjk6ImNvbHVtbmFtZSI7czoxNDoib25saW5ldGVzdG5hbWUiO3M6NjoiY29sdW1uIjtzOjE0OiJvbmxpbmV0ZXN0bmFtZSI7czo3OiJoZWFkaW5nIjtzOjI5OiJvbmxpbmV0ZXN0c2NvbXBsZXRpb25zY29sdW1ucyI7fX1pOjE7YTo2OntzOjI6ImlkIjtzOjE1OiI0ZlA3dkF1M1RwbG9GNW4iO3M6MTA6InBsdWdpbm5hbWUiO3M6OToidXNlcmZpZWxkIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czo5OiJ1c2VyZmllbGQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo1OntzOjY6ImNvbHVtbiI7czo4OiJmdWxsbmFtZSI7czo5OiJjb2x1bW5hbWUiO3M6ODoiRnVsbE5hbWUiO3M6NToiYWxpZ24iO3M6NjoiY2VudGVyIjtzOjQ6InNpemUiO3M6MDoiIjtzOjQ6IndyYXAiO3M6MDoiIjt9fWk6MjthOjY6e3M6MjoiaWQiO3M6MTU6ImZrQmNMNklTdWFBRFU5RCI7czoxMDoicGx1Z2lubmFtZSI7czoyOToib25saW5ldGVzdHNjb21wbGV0aW9uc2NvbHVtbnMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjI5OiJPbmxpbmVleGFtc2NvbXBsZXRpb25zY29sdW1ucyI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjQ6e3M6NToidmFsdWUiO2I6MTtzOjk6ImNvbHVtbmFtZSI7czo1OiJHcmFkZSI7czo2OiJjb2x1bW4iO3M6MTM6ImFjaGlldmVkZ3JhZGUiO3M6NzoiaGVhZGluZyI7czoyOToib25saW5ldGVzdHNjb21wbGV0aW9uc2NvbHVtbnMiO319aTozO2E6Njp7czoyOiJpZCI7czoxNToiTkpTMTZuNksxeU1DWnFHIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjI5OiJvbmxpbmV0ZXN0c2NvbXBsZXRpb25zY29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6Mjk6Ik9ubGluZWV4YW1zY29tcGxldGlvbnNjb2x1bW5zIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjQ6InR5cGUiO3M6MTU6InNlbGVjdGVkY29sdW1ucyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NDp7czo1OiJ2YWx1ZSI7YjoxO3M6OToiY29sdW1uYW1lIjtzOjE2OiJDb21wbGV0aW9uU3RhdHVzIjtzOjY6ImNvbHVtbiI7czoxNjoiY29tcGxldGlvbnN0YXR1cyI7czo3OiJoZWFkaW5nIjtzOjI5OiJvbmxpbmV0ZXN0c2NvbXBsZXRpb25zY29sdW1ucyI7fX1pOjQ7YTo2OntzOjI6ImlkIjtzOjE1OiI0QWZCVWNleUwwaGNTRmsiO3M6MTA6InBsdWdpbm5hbWUiO3M6Mjk6Im9ubGluZXRlc3RzY29tcGxldGlvbnNjb2x1bW5zIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czoyOToiT25saW5lZXhhbXNjb21wbGV0aW9uc2NvbHVtbnMiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo0OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTQ6IkNvbXBsZXRpb25EYXRlIjtzOjY6ImNvbHVtbiI7czoxNDoiY29tcGxldGlvbmRhdGUiO3M6NzoiaGVhZGluZyI7czoyOToib25saW5ldGVzdHNjb21wbGV0aW9uc2NvbHVtbnMiO319fX1zOjc6ImZpbHRlcnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YTozOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiJsMExmZlB4bXdyUlFOcXkiO3M6MTA6InBsdWdpbm5hbWUiO3M6MTI6Im9yZ2FuaXphdGlvbiI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MTI6Ik9yZ2FuaXphdGlvbiI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6Mzp7czo0OiJuYW1lIjtzOjEyOiJPcmdhbml6YXRpb24iO3M6NDoidHlwZSI7czo3OiJmaWx0ZXJzIjtzOjU6InZhbHVlIjtiOjE7fX1pOjU7YTo1OntzOjI6ImlkIjtzOjE1OiJWYmw2MmNwMGdPRWo1MDAiO3M6MTA6InBsdWdpbm5hbWUiO3M6NDoidXNlciI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NToiVXNlcnMiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjM6e3M6NDoibmFtZSI7czo1OiJVc2VycyI7czo0OiJ0eXBlIjtzOjc6ImZpbHRlcnMiO3M6NToidmFsdWUiO2I6MTt9fWk6NjthOjU6e3M6MjoiaWQiO3M6MTU6Imp5NGlqRzhESW54bGJlUCI7czoxMDoicGx1Z2lubmFtZSI7czoxNjoiY29tcGxldGlvbnN0YXR1cyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MTc6IkNvbXBsZXRpb24rU3RhdHVzIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjozOntzOjQ6Im5hbWUiO3M6MTc6IkNvbXBsZXRpb24rU3RhdHVzIjtzOjQ6InR5cGUiO3M6NzoiZmlsdGVycyI7czo1OiJ2YWx1ZSI7YjoxO319fX1zOjEyOiJjYWxjdWxhdGlvbnMiO2E6MTp7czo4OiJlbGVtZW50cyI7Tjt9czo4OiJvcmRlcmluZyI7YToxOntzOjg6ImVsZW1lbnRzIjtOO31zOjExOiJwZXJtaXNzaW9ucyI7YToyOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Mzp7czoxMzoiY29uZGl0aW9uZXhwciI7czoyOiJjMSI7czoxNDoiY29uZGl0aW9uZXhwcjEiO3M6MjoiYzEiO3M6MTQ6ImNvbmRpdGlvbmV4cHIyIjtzOjA6IiI7fXM6ODoiZWxlbWVudHMiO2E6MTp7aTowO2E6NTp7czoyOiJpZCI7czoxNToiM20wVFlKMmRhTkNmODc5IjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjoyOntzOjE0OiJvcmdhbmlzYXRpb25pZCI7czoyOiIxMSI7czoxMjoic3VibWl0YnV0dG9uIjtzOjM6IkFkZCI7fXM6MTA6InBsdWdpbm5hbWUiO3M6MTI6Im9yZ2FuaXNhdGlvbiI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MTI6Ik9yZ2FuaXphdGlvbiI7czo3OiJzdW1tYXJ5IjtzOjY6Ik1vb2RsZSI7fX19fQ==]]></components>
+<export><![CDATA[pdf,csv]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<enablestatistics><![CDATA[0]]></enablestatistics>
+<instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[OnlineExams]]></subpagepattern>
+<defaultregion><![CDATA[side-db-main]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1694770740]]></timecreated>
+<timemodified><![CDATA[1694770773]]></timemodified>
+<title><![CDATA[Online exams completion]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[reportdb-second]]></defaultregion>
+<defaultweight><![CDATA[5]]></defaultweight>
+<timecreated><![CDATA[1717502562]]></timecreated>
+<timemodified><![CDATA[1717502888]]></timemodified>
+<title><![CDATA[Online exams completion]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[reportdb-second]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1717571551]]></timecreated>
+<timemodified><![CDATA[1717571657]]></timemodified>
+<title><![CDATA[Online exams completion]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position></report>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019052008.6"><category><![CDATA[local_classroom]]></category>
+<visible><![CDATA[1]]></visible>
+<name><![CDATA[Classroom Session Wise Attendance]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[classroomsessionattendence]]></type>
+<components><![CDATA[YTo2OntpOjA7czowOiIiO3M6NzoiY29sdW1ucyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjc6e2k6MDthOjY6e3M6MjoiaWQiO3M6MTU6Ik9SNE9QZGZmeG44bUl1ViI7czoxMDoicGx1Z2lubmFtZSI7czoxNDoiY2xhc3Nyb29tZmllbGQiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjE0OiJjbGFzc3Jvb21maWVsZCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjU6e3M6NjoiY29sdW1uIjtzOjEzOiJjbGFzc3Jvb21uYW1lIjtzOjk6ImNvbHVtbmFtZSI7czoxNDoiQ2xhc3Nyb29tK05hbWUiO3M6NToiYWxpZ24iO3M6NDoibGVmdCI7czo0OiJzaXplIjtzOjA6IiI7czo0OiJ3cmFwIjtzOjA6IiI7fX1pOjE7YTo2OntzOjI6ImlkIjtzOjE1OiJvclZMTXhFM3Awc3dkeEsiO3M6MTA6InBsdWdpbm5hbWUiO3M6MzM6ImNsYXNzcm9vbXNlc3Npb25hdHRlbmRlbmNlY29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NjE6IiUyNTI1NUIlMjUyNTVCY2xhc3Nyb29tc2Vzc2lvbmF0dGVuZGVuY2Vjb2x1bW5zJTI1MjU1RCUyNTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo1OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTI6IlNlc3Npb24rTmFtZSI7czo2OiJjb2x1bW4iO3M6MTE6InNlc3Npb25uYW1lIjtzOjc6ImhlYWRpbmciO3M6MzM6ImNsYXNzcm9vbXNlc3Npb25hdHRlbmRlbmNlY29sdW1ucyI7czo1OiJhbGlnbiI7czo0OiJsZWZ0Ijt9fWk6MjthOjY6e3M6MjoiaWQiO3M6MTU6InU3VVdYNkFmd1pZVmhhWiI7czoxMDoicGx1Z2lubmFtZSI7czo5OiJ1c2VyZmllbGQiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjk6InVzZXJmaWVsZCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjU6e3M6NjoiY29sdW1uIjtzOjg6ImZ1bGxuYW1lIjtzOjk6ImNvbHVtbmFtZSI7czoxMzoiRW1wbG95ZWUrTmFtZSI7czo1OiJhbGlnbiI7czo0OiJsZWZ0IjtzOjQ6InNpemUiO3M6MDoiIjtzOjQ6IndyYXAiO3M6MDoiIjt9fWk6MzthOjY6e3M6MjoiaWQiO3M6MTU6InpGakcyMERoRXR3RHM0TSI7czoxMDoicGx1Z2lubmFtZSI7czozMzoiY2xhc3Nyb29tc2Vzc2lvbmF0dGVuZGVuY2Vjb2x1bW5zIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czo1MzoiJTI1NUIlMjU1QmNsYXNzcm9vbXNlc3Npb25hdHRlbmRlbmNlY29sdW1ucyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo1OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6NzoiVHJhaW5lciI7czo2OiJjb2x1bW4iO3M6NzoidHJhaW5lciI7czo3OiJoZWFkaW5nIjtzOjMzOiJjbGFzc3Jvb21zZXNzaW9uYXR0ZW5kZW5jZWNvbHVtbnMiO3M6NToiYWxpZ24iO3M6NDoibGVmdCI7fX1pOjQ7YTo2OntzOjI6ImlkIjtzOjE1OiJFRnJFSkhtVmVubkFOOGkiO3M6MTA6InBsdWdpbm5hbWUiO3M6MzM6ImNsYXNzcm9vbXNlc3Npb25hdHRlbmRlbmNlY29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NTM6IiUyNTVCJTI1NUJjbGFzc3Jvb21zZXNzaW9uYXR0ZW5kZW5jZWNvbHVtbnMlMjU1RCUyNTVEIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjQ6InR5cGUiO3M6MTU6InNlbGVjdGVkY29sdW1ucyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NDp7czo1OiJ2YWx1ZSI7YjoxO3M6OToiY29sdW1uYW1lIjtzOjEwOiJTdGFydCtUaW1lIjtzOjY6ImNvbHVtbiI7czo5OiJ0aW1lc3RhcnQiO3M6NzoiaGVhZGluZyI7czozMzoiY2xhc3Nyb29tc2Vzc2lvbmF0dGVuZGVuY2Vjb2x1bW5zIjt9fWk6NTthOjY6e3M6MjoiaWQiO3M6MTU6InZkY2F4SUthcDFNcFV1MiI7czoxMDoicGx1Z2lubmFtZSI7czozMzoiY2xhc3Nyb29tc2Vzc2lvbmF0dGVuZGVuY2Vjb2x1bW5zIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czo1MzoiJTI1NUIlMjU1QmNsYXNzcm9vbXNlc3Npb25hdHRlbmRlbmNlY29sdW1ucyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo0OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6ODoiRW5kK1RpbWUiO3M6NjoiY29sdW1uIjtzOjEwOiJ0aW1lZmluaXNoIjtzOjc6ImhlYWRpbmciO3M6MzM6ImNsYXNzcm9vbXNlc3Npb25hdHRlbmRlbmNlY29sdW1ucyI7fX1pOjY7YTo2OntzOjI6ImlkIjtzOjE1OiJjMWkzT2hXc2MzSHlldDkiO3M6MTA6InBsdWdpbm5hbWUiO3M6MzM6ImNsYXNzcm9vbXNlc3Npb25hdHRlbmRlbmNlY29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NTM6IiUyNTVCJTI1NUJjbGFzc3Jvb21zZXNzaW9uYXR0ZW5kZW5jZWNvbHVtbnMlMjU1RCUyNTVEIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjQ6InR5cGUiO3M6MTU6InNlbGVjdGVkY29sdW1ucyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NDp7czo1OiJ2YWx1ZSI7YjoxO3M6OToiY29sdW1uYW1lIjtzOjEwOiJBdHRlbmRhbmNlIjtzOjY6ImNvbHVtbiI7czoxOToiYXR0ZW5kZW5kZW5jZXN0YXR1cyI7czo3OiJoZWFkaW5nIjtzOjMzOiJjbGFzc3Jvb21zZXNzaW9uYXR0ZW5kZW5jZWNvbHVtbnMiO319fX1zOjc6ImZpbHRlcnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YToxOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiJnaEQxOXA5VXUxcURpR0IiO3M6MTA6InBsdWdpbm5hbWUiO3M6NDoidXNlciI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MTY6IiU1QiU1QnVzZXIlNUQlNUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjM6e3M6NDoibmFtZSI7czoxNjoiJTVCJTVCdXNlciU1RCU1RCI7czo0OiJ0eXBlIjtzOjc6ImZpbHRlcnMiO3M6NToidmFsdWUiO2I6MTt9fX19czoxMjoiY2FsY3VsYXRpb25zIjthOjE6e3M6ODoiZWxlbWVudHMiO047fXM6ODoib3JkZXJpbmciO2E6MTp7czo4OiJlbGVtZW50cyI7Tjt9czoxMToicGVybWlzc2lvbnMiO2E6Mjp7czo2OiJjb25maWciO086ODoic3RkQ2xhc3MiOjM6e3M6MTM6ImNvbmRpdGlvbmV4cHIiO3M6MjoiYzEiO3M6MTQ6ImNvbmRpdGlvbmV4cHIxIjtzOjI6ImMxIjtzOjE0OiJjb25kaXRpb25leHByMiI7czowOiIiO31zOjg6ImVsZW1lbnRzIjthOjE6e2k6MDthOjU6e3M6MjoiaWQiO3M6MTU6ImhSSjY3cjJQNnhKSXlXUiI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6Mjp7czoxNDoib3JnYW5pc2F0aW9uaWQiO3M6MjoiMTEiO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czozOiJBZGQiO31zOjEwOiJwbHVnaW5uYW1lIjtzOjEyOiJvcmdhbmlzYXRpb24iO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjEyOiJPcmdhbml6YXRpb24iO3M6Nzoic3VtbWFyeSI7czo2OiJNb29kbGUiO319fX0=]]></components>
+<export><![CDATA[pdf,csv,xls,ods]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<enablestatistics><![CDATA[0]]></enablestatistics>
+<instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[first-maindb]]></defaultregion>
+<defaultweight><![CDATA[-2]]></defaultweight>
+<timecreated><![CDATA[1689330756]]></timecreated>
+<timemodified><![CDATA[1717492885]]></timemodified>
+<title><![CDATA[Classroom Session Wise Attendance]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Classroom]]></subpagepattern>
+<defaultregion><![CDATA[side-db-third]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1694197428]]></timecreated>
+<timemodified><![CDATA[1694197910]]></timemodified>
+<title><![CDATA[Classroom Session Wise Attendance]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Classroom]]></subpagepattern>
+<defaultregion><![CDATA[side-db-main]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1694670777]]></timecreated>
+<timemodified><![CDATA[1694670870]]></timemodified>
+<title><![CDATA[Classroom Session Wise Attendance]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-four]]></defaultregion>
+<defaultweight><![CDATA[-1]]></defaultweight>
+<timecreated><![CDATA[1694761647]]></timecreated>
+<timemodified><![CDATA[1717570702]]></timemodified>
+<title><![CDATA[Classroom Session Wise Attendance]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position></report>

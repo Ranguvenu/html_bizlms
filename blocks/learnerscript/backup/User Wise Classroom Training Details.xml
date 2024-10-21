@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019052008.6"><category><![CDATA[local_classroom]]></category>
+<visible><![CDATA[1]]></visible>
+<name><![CDATA[User Wise Classroom Training Details]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[classroomusers]]></type>
+<components><![CDATA[YTo2OntpOjA7czowOiIiO3M6NzoiY29sdW1ucyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjU6e2k6MDthOjY6e3M6MjoiaWQiO3M6MTU6InNYczlKVHlPTmZORzJTOSI7czoxMDoicGx1Z2lubmFtZSI7czoxNDoiY2xhc3Nyb29tdXNlcnMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjM0OiIlMjU1QiUyNTVCY2xhc3Nyb29tdXNlcnMlMjU1RCUyNTVEIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjQ6InR5cGUiO3M6MTU6InNlbGVjdGVkY29sdW1ucyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NTp7czo1OiJ2YWx1ZSI7YjoxO3M6OToiY29sdW1uYW1lIjtzOjEzOiJFbXBsb3llZStOYW1lIjtzOjY6ImNvbHVtbiI7czoxMjoiZW1wbG95ZWVuYW1lIjtzOjc6ImhlYWRpbmciO3M6MTQ6ImNsYXNzcm9vbXVzZXJzIjtzOjU6ImFsaWduIjtzOjQ6ImxlZnQiO319aToxO2E6Njp7czoyOiJpZCI7czoxNToiQWdNZ080TlVjanZNYWoyIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjE0OiJjbGFzc3Jvb211c2VycyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MzQ6IiUyNTVCJTI1NUJjbGFzc3Jvb211c2VycyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo1OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MjU6IlRvdGFsK0Vucm9sbGVkK0NsYXNzcm9vbXMiO3M6NjoiY29sdW1uIjtzOjk6InRvdGFsaWx0cyI7czo3OiJoZWFkaW5nIjtzOjE0OiJjbGFzc3Jvb211c2VycyI7czo1OiJhbGlnbiI7czo2OiJjZW50ZXIiO319aToyO2E6Njp7czoyOiJpZCI7czoxNToiR0FPVWFoallpVlZWMmc1IjtzOjEwOiJwbHVnaW5uYW1lIjtzOjE0OiJjbGFzc3Jvb211c2VycyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MzQ6IiUyNTVCJTI1NUJjbGFzc3Jvb211c2VycyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo1OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTQ6IlRvdGFsK1Nlc3Npb25zIjtzOjY6ImNvbHVtbiI7czoxMzoidG90YWxzZXNzaW9ucyI7czo3OiJoZWFkaW5nIjtzOjE0OiJjbGFzc3Jvb211c2VycyI7czo1OiJhbGlnbiI7czo2OiJjZW50ZXIiO319aTozO2E6Njp7czoyOiJpZCI7czoxNToiR0ZPSUpaZ1hqTzJCT3RYIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjE0OiJjbGFzc3Jvb211c2VycyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MzQ6IiUyNTVCJTI1NUJjbGFzc3Jvb211c2VycyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo1OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTQ6IlRvdGFsK0F0dGVtcHRzIjtzOjY6ImNvbHVtbiI7czoxNjoiYXR0ZW5kZWRzZXNzaW9ucyI7czo3OiJoZWFkaW5nIjtzOjE0OiJjbGFzc3Jvb211c2VycyI7czo1OiJhbGlnbiI7czo2OiJjZW50ZXIiO319aTo0O2E6Njp7czoyOiJpZCI7czoxNToiTjRmRW9HYzVkUzBRdUpiIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjE0OiJjbGFzc3Jvb211c2VycyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MzQ6IiUyNTVCJTI1NUJjbGFzc3Jvb211c2VycyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo1OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MjA6IlRvdGFsK0F0dGVuZGVkK0hvdXJzIjtzOjY6ImNvbHVtbiI7czoxMDoidG90YWxob3VycyI7czo3OiJoZWFkaW5nIjtzOjE0OiJjbGFzc3Jvb211c2VycyI7czo1OiJhbGlnbiI7czo2OiJjZW50ZXIiO319fX1zOjc6ImZpbHRlcnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YToxOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiI2eXM2NmhsWlhobmlaaUUiO3M6MTA6InBsdWdpbm5hbWUiO3M6NDoidXNlciI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MTY6IiU1QiU1QnVzZXIlNUQlNUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjM6e3M6NDoibmFtZSI7czoxNjoiJTVCJTVCdXNlciU1RCU1RCI7czo0OiJ0eXBlIjtzOjc6ImZpbHRlcnMiO3M6NToidmFsdWUiO2I6MTt9fX19czoxMjoiY2FsY3VsYXRpb25zIjthOjE6e3M6ODoiZWxlbWVudHMiO047fXM6ODoib3JkZXJpbmciO2E6MTp7czo4OiJlbGVtZW50cyI7Tjt9czoxMToicGVybWlzc2lvbnMiO2E6Mjp7czo2OiJjb25maWciO086ODoic3RkQ2xhc3MiOjM6e3M6MTM6ImNvbmRpdGlvbmV4cHIiO3M6MjoiYzEiO3M6MTQ6ImNvbmRpdGlvbmV4cHIxIjtzOjI6ImMxIjtzOjE0OiJjb25kaXRpb25leHByMiI7czowOiIiO31zOjg6ImVsZW1lbnRzIjthOjE6e2k6MDthOjU6e3M6MjoiaWQiO3M6MTU6InpqVUJjTHlhSjlGUHBNQyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6Mjp7czoxNDoib3JnYW5pc2F0aW9uaWQiO3M6MjoiMTEiO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czozOiJBZGQiO31zOjEwOiJwbHVnaW5uYW1lIjtzOjEyOiJvcmdhbmlzYXRpb24iO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjEyOiJPcmdhbml6YXRpb24iO3M6Nzoic3VtbWFyeSI7czo2OiJNb29kbGUiO319fX0=]]></components>
+<export><![CDATA[csv,xls]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<enablestatistics><![CDATA[0]]></enablestatistics>
+<instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[first-maindb]]></defaultregion>
+<defaultweight><![CDATA[-3]]></defaultweight>
+<timecreated><![CDATA[1689330756]]></timecreated>
+<timemodified><![CDATA[1717484432]]></timemodified>
+<title><![CDATA[User Wise Classroom Training Details]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Classroom]]></subpagepattern>
+<defaultregion><![CDATA[reportdb-one]]></defaultregion>
+<defaultweight><![CDATA[-1]]></defaultweight>
+<timecreated><![CDATA[1694197428]]></timecreated>
+<timemodified><![CDATA[1694770237]]></timemodified>
+<title><![CDATA[User Wise Classroom Training Details]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[1]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Classroom]]></subpagepattern>
+<defaultregion><![CDATA[side-db-second]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1694670641]]></timecreated>
+<timemodified><![CDATA[1694670702]]></timemodified>
+<title><![CDATA[User Wise Classroom Training Details]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+<disableheader><![CDATA[0]]></disableheader>
+<tilescolourpicker><![CDATA[12445F]]></tilescolourpicker>
+</instance><position version="2019052008.6"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard]]></pagetype>
+<subpage><![CDATA[Classroom]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[reportdb-second]]></region>
+<weight><![CDATA[2]]></weight>
+</position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Users]]></subpagepattern>
+<defaultregion><![CDATA[side-db-main]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1694671398]]></timecreated>
+<timemodified><![CDATA[1694671450]]></timemodified>
+<title><![CDATA[User Wise Classroom Training Details]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-third]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1694675007]]></timecreated>
+<timemodified><![CDATA[1717482134]]></timemodified>
+<title><![CDATA[User Wise Classroom Training Details]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position></report>

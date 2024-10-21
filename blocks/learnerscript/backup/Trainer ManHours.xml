@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019052008.6"><category><![CDATA[local_classroom]]></category>
+<visible><![CDATA[1]]></visible>
+<name><![CDATA[Trainer ManHours]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[trainermanhours]]></type>
+<components><![CDATA[YTo2OntpOjA7czowOiIiO3M6NzoiY29sdW1ucyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjQ6e2k6MDthOjY6e3M6MjoiaWQiO3M6MTU6IkljcDc5RXNZMFBZVUtCNiI7czoxMDoicGx1Z2lubmFtZSI7czo5OiJ1c2VyZmllbGQiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjk6InVzZXJmaWVsZCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjU6e3M6NjoiY29sdW1uIjtzOjg6ImZ1bGxuYW1lIjtzOjk6ImNvbHVtbmFtZSI7czoxMjoiVHJhaW5lcitOYW1lIjtzOjU6ImFsaWduIjtzOjQ6ImxlZnQiO3M6NDoic2l6ZSI7czowOiIiO3M6NDoid3JhcCI7czowOiIiO319aToxO2E6Njp7czoyOiJpZCI7czoxNToiQjBEaE9lVXZSNUJmZzdjIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjE1OiJ0cmFpbmVybWFuaG91cnMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjUxOiIlMjUyNTI1NUIlMjUyNTI1NUJ0cmFpbmVybWFuaG91cnMlMjUyNTI1NUQlMjUyNTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo0OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MjA6IlRvdGFsK1RyYWluaW5nK0hvdXJzIjtzOjY6ImNvbHVtbiI7czoxMzoidHJhaW5pbmdob3VycyI7czo3OiJoZWFkaW5nIjtzOjE1OiJ0cmFpbmVybWFuaG91cnMiO319aToyO2E6Njp7czoyOiJpZCI7czoxNToiUnBxbmQyUWxSZGF6RzczIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjE1OiJ0cmFpbmVybWFuaG91cnMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjUxOiIlMjUyNTI1NUIlMjUyNTI1NUJ0cmFpbmVybWFuaG91cnMlMjUyNTI1NUQlMjUyNTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo0OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTM6IkNvdmVyZWQrVXNlcnMiO3M6NjoiY29sdW1uIjtzOjEyOiJ1c2Vyc2NvdmVyZWQiO3M6NzoiaGVhZGluZyI7czoxNToidHJhaW5lcm1hbmhvdXJzIjt9fWk6MzthOjY6e3M6MjoiaWQiO3M6MTU6IjhsN3dEaWVaZmNXMlo0cyI7czoxMDoicGx1Z2lubmFtZSI7czoxNDoiY2xhc3Nyb29tZmllbGQiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjE0OiJjbGFzc3Jvb21maWVsZCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjU6e3M6NjoiY29sdW1uIjtzOjEzOiJjbGFzc3Jvb21uYW1lIjtzOjk6ImNvbHVtbmFtZSI7czoxNDoiQ2xhc3Nyb29tK05hbWUiO3M6NToiYWxpZ24iO3M6NjoiY2VudGVyIjtzOjQ6InNpemUiO3M6MDoiIjtzOjQ6IndyYXAiO3M6MDoiIjt9fX19czo3OiJmaWx0ZXJzIjthOjE6e3M6ODoiZWxlbWVudHMiO2E6Njp7aTowO2E6NTp7czoyOiJpZCI7czoxNToiRlpVa1ZWTXBGVUo3RUoyIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjEyOiJvcmdhbml6YXRpb24iO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjI0OiIlNUIlNUJvcmdhbml6YXRpb24lNUQlNUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjM6e3M6NDoibmFtZSI7czoyNDoiJTVCJTVCb3JnYW5pemF0aW9uJTVEJTVEIjtzOjQ6InR5cGUiO3M6NzoiZmlsdGVycyI7czo1OiJ2YWx1ZSI7YjoxO319aToxO2E6NTp7czoyOiJpZCI7czoxNToiblV5QVZHM09OQndrWVVZIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjExOiJkZXBhcnRtZW50cyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MjM6IiU1QiU1QmRlcGFydG1lbnRzJTVEJTVEIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjozOntzOjQ6Im5hbWUiO3M6MjM6IiU1QiU1QmRlcGFydG1lbnRzJTVEJTVEIjtzOjQ6InR5cGUiO3M6NzoiZmlsdGVycyI7czo1OiJ2YWx1ZSI7YjoxO319aToyO2E6NTp7czoyOiJpZCI7czoxNToiMDB5MmZLZU9UaTNXRWhZIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjE0OiJzdWJkZXBhcnRtZW50cyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MjY6IiU1QiU1QnN1YmRlcGFydG1lbnRzJTVEJTVEIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjozOntzOjQ6Im5hbWUiO3M6MjY6IiU1QiU1QnN1YmRlcGFydG1lbnRzJTVEJTVEIjtzOjQ6InR5cGUiO3M6NzoiZmlsdGVycyI7czo1OiJ2YWx1ZSI7YjoxO319aTozO2E6NTp7czoyOiJpZCI7czoxNToiSDFhaFFTQVpLWEhockk2IjtzOjEwOiJwbHVnaW5uYW1lIjtzOjE2OiJsZXZlbDRkZXBhcnRtZW50IjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czoyODoiJTVCJTVCbGV2ZWw0ZGVwYXJ0bWVudCU1RCU1RCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6Mzp7czo0OiJuYW1lIjtzOjI4OiIlNUIlNUJsZXZlbDRkZXBhcnRtZW50JTVEJTVEIjtzOjQ6InR5cGUiO3M6NzoiZmlsdGVycyI7czo1OiJ2YWx1ZSI7YjoxO319aTo0O2E6NTp7czoyOiJpZCI7czoxNToib2ppc1ZWRHR2WHRaVlJMIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjEwOiJjbGFzc3Jvb21zIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czoxMDoiQ2xhc3Nyb29tcyI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6Mzp7czo0OiJuYW1lIjtzOjEwOiJDbGFzc3Jvb21zIjtzOjQ6InR5cGUiO3M6NzoiZmlsdGVycyI7czo1OiJ2YWx1ZSI7YjoxO319aTo1O2E6NTp7czoyOiJpZCI7czoxNToiWGVBMWN5c2l0ZUNFNW9nIjtzOjEwOiJwbHVnaW5uYW1lIjtzOjg6InRyYWluZXJzIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czoyMDoiJTVCJTVCdHJhaW5lcnMlNUQlNUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjM6e3M6NDoibmFtZSI7czoyMDoiJTVCJTVCdHJhaW5lcnMlNUQlNUQiO3M6NDoidHlwZSI7czo3OiJmaWx0ZXJzIjtzOjU6InZhbHVlIjtiOjE7fX19fXM6MTI6ImNhbGN1bGF0aW9ucyI7YToxOntzOjg6ImVsZW1lbnRzIjtOO31zOjg6Im9yZGVyaW5nIjthOjE6e3M6ODoiZWxlbWVudHMiO047fXM6MTE6InBlcm1pc3Npb25zIjthOjI6e3M6NjoiY29uZmlnIjtPOjg6InN0ZENsYXNzIjozOntzOjEzOiJjb25kaXRpb25leHByIjtzOjI6ImMxIjtzOjE0OiJjb25kaXRpb25leHByMSI7czoyOiJjMSI7czoxNDoiY29uZGl0aW9uZXhwcjIiO3M6MDoiIjt9czo4OiJlbGVtZW50cyI7YToxOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiI1dERsV3dpRU9leDZiTEMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjI6e3M6MTQ6Im9yZ2FuaXNhdGlvbmlkIjtzOjI6IjExIjtzOjEyOiJzdWJtaXRidXR0b24iO3M6MzoiQWRkIjt9czoxMDoicGx1Z2lubmFtZSI7czoxMjoib3JnYW5pc2F0aW9uIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czoxMjoiT3JnYW5pemF0aW9uIjtzOjc6InN1bW1hcnkiO3M6NjoiTW9vZGxlIjt9fX19]]></components>
+<export><![CDATA[csv,xls]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<enablestatistics><![CDATA[0]]></enablestatistics>
+<instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[first-maindb]]></defaultregion>
+<defaultweight><![CDATA[-1]]></defaultweight>
+<timecreated><![CDATA[1689330756]]></timecreated>
+<timemodified><![CDATA[1717492888]]></timemodified>
+<title><![CDATA[Trainer ManHours]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Classroom]]></subpagepattern>
+<defaultregion><![CDATA[reportdb-one]]></defaultregion>
+<defaultweight><![CDATA[1]]></defaultweight>
+<timecreated><![CDATA[1694197428]]></timecreated>
+<timemodified><![CDATA[1694675308]]></timemodified>
+<title><![CDATA[Trainer ManHours]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-four]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1694674844]]></timecreated>
+<timemodified><![CDATA[1717482147]]></timemodified>
+<title><![CDATA[Trainer ManHours]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+</instance><position version="2019052008.6"></position></report>

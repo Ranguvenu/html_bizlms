@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019052008.6"><category><![CDATA[user]]></category>
+<visible><![CDATA[1]]></visible>
+<name><![CDATA[Device statistics]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[sql]]></type>
+<components><![CDATA[YTo2OntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTI6e3M6NDoibmFtZSI7czoxNzoiRGV2aWNlK3N0YXRpc3RpY3MiO3M6ODoiY2F0ZWdvcnkiO3M6NDoidXNlciI7czo0OiJ0eXBlIjtzOjM6InNxbCI7czo4OiJxdWVyeXNxbCI7czozMDk6IlNFTEVDVCtkZXZpY2V0eXBlJTJDY291bnQlMjh1c2VyaWQlMjkrYXMrbnVtYmVyb2Z1c2VycytGUk9NK3ByZWZpeF9ibG9ja19kZXZpY2VscyUwRCUwQVdIRVJFKyUwRCUwQTErJTNEKzErQU5EK2RldmljZXR5cGUrJTIxJTNEKyUyNyslMjclMEQlMEFBTkQrdGltZW1vZGlmaWVkK0JFVFdFRU4rJTI1JTI1TFNfU1RBUlREQVRFJTI1JTI1K0FORCslMjUlMjVMU19FTkREQVRFJTI1JTI1JTBEJTBBJTI1JTI1U0VBUkNIJTNBZGV2aWNldHlwZSUyNSUyNSUwRCUwQStHUk9VUCtCWStkZXZpY2V0eXBlK09SREVSK0JZK251bWJlcm9mdXNlcnMrREVTQyI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo2OiJnbG9iYWwiO3M6MToiMSI7czoyOiJpZCI7aToxMTg7czo4OiJjb3Vyc2VpZCI7aToxO3M6MzU6Im1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjtpOjA7czoxMjoic3VibWl0YnV0dG9uIjtzOjQ6Ik5leHQiO3M6MTY6ImVuYWJsZXN0YXRpc3RpY3MiO2k6MDtzOjEyOiJkaXNhYmxldGFibGUiO2k6MDt9fXM6NzoiY29sdW1ucyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjI6e2k6MDthOjY6e3M6MjoiaWQiO3M6MTU6IkVIR1BraUJ4NW96aDJjbSI7czoxMDoicGx1Z2lubmFtZSI7czozOiJzcWwiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjM6IlNRTCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjc6e3M6NToidmFsdWUiO2I6MTtzOjk6ImNvbHVtbmFtZSI7czoxMDoiRGV2aWNldHlwZSI7czo2OiJjb2x1bW4iO3M6MTA6ImRldmljZXR5cGUiO3M6NzoiaGVhZGluZyI7czowOiIiO3M6NDoid3JhcCI7czowOiIiO3M6NToiYWxpZ24iO3M6MDoiIjtzOjQ6InNpemUiO3M6MDoiIjt9fWk6MTthOjY6e3M6MjoiaWQiO3M6MTU6IkdkNk5DQnllMFNhOE1RNiI7czoxMDoicGx1Z2lubmFtZSI7czozOiJzcWwiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjM6IlNRTCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjc6e3M6NToidmFsdWUiO2I6MTtzOjk6ImNvbHVtbmFtZSI7czoxNToiTnVtYmVyK29mK3ZpZXdzIjtzOjY6ImNvbHVtbiI7czoxMzoibnVtYmVyb2Z1c2VycyI7czo3OiJoZWFkaW5nIjtzOjA6IiI7czo0OiJ3cmFwIjtzOjA6IiI7czo1OiJhbGlnbiI7czo2OiJjZW50ZXIiO3M6NDoic2l6ZSI7czowOiIiO319fX1zOjc6ImZpbHRlcnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YTowOnt9fXM6MTI6ImNhbGN1bGF0aW9ucyI7YToxOntzOjg6ImVsZW1lbnRzIjtOO31zOjg6Im9yZGVyaW5nIjthOjE6e3M6ODoiZWxlbWVudHMiO047fXM6NDoicGxvdCI7YToxOntzOjg6ImVsZW1lbnRzIjthOjE6e2k6MDthOjU6e3M6MjoiaWQiO3M6MTU6Ik81Y2JrMkhhU0lYR0JWZyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6OTp7czo5OiJjaGFydG5hbWUiO3M6MTI6IkRldmljZStTdGF0cyI7czo4OiJhcmVhbmFtZSI7czoxMDoiZGV2aWNldHlwZSI7czo5OiJhcmVhdmFsdWUiO3M6MTM6Im51bWJlcm9mdXNlcnMiO3M6MTE6InNlcmllc2xhYmVsIjtzOjA6IiI7czoxMDoic2hvd2xlZ2VuZCI7czoxOiIwIjtzOjEwOiJkYXRhbGFiZWxzIjtzOjE6IjEiO3M6MTA6ImNvbHVtbnNvcnQiO3M6MTA6ImRldmljZXR5cGUiO3M6Nzoic29ydGluZyI7czowOiIiO3M6NToibGltaXQiO3M6MDoiIjt9czoxMDoicGx1Z2lubmFtZSI7czozOiJwaWUiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjM6IlBpZSI7czo3OiJzdW1tYXJ5IjtzOjExOiJBK3BpZStncmFwaCI7fX19fQ==]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<enablestatistics><![CDATA[0]]></enablestatistics>
+<instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-one]]></defaultregion>
+<defaultweight><![CDATA[11]]></defaultweight>
+<timecreated><![CDATA[1694704427]]></timecreated>
+<timemodified><![CDATA[1717487671]]></timemodified>
+<title><![CDATA[Device statistics]]></title>
+<reportcontenttype><![CDATA[O5cbk2HaSIXGBVg]]></reportcontenttype>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-main]]></defaultregion>
+<defaultweight><![CDATA[-1]]></defaultweight>
+<timecreated><![CDATA[1694749473]]></timecreated>
+<timemodified><![CDATA[1717571821]]></timemodified>
+<title><![CDATA[Device statistics]]></title>
+<reportcontenttype><![CDATA[O5cbk2HaSIXGBVg]]></reportcontenttype>
+</instance><position version="2019052008.6"></position></report>

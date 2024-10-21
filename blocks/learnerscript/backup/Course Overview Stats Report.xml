@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019052008.6"><category><![CDATA[course]]></category>
+<visible><![CDATA[1]]></visible>
+<name><![CDATA[Course Overview Stats Report]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[statscoursesoverview]]></type>
+<components><![CDATA[YTo2OntpOjA7czowOiIiO3M6NzoiY29sdW1ucyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjU6e2k6MDthOjY6e3M6MjoiaWQiO3M6MTU6IkxibGJxcGpjWkF0b0NtVSI7czoxMDoicGx1Z2lubmFtZSI7czoyNzoic3RhdHNjb3Vyc2Vzb3ZlcnZpZXdjb2x1bW5zIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czo0NzoiJTI1NUIlMjU1QnN0YXRzY291cnNlc292ZXJ2aWV3Y29sdW1ucyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo0OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTM6IlRvdGFsK0NvdXJzZXMiO3M6NjoiY29sdW1uIjtzOjEyOiJ0b3RhbGNvdXJzZXMiO3M6NzoiaGVhZGluZyI7czoyNzoic3RhdHNjb3Vyc2Vzb3ZlcnZpZXdjb2x1bW5zIjt9fWk6MTthOjY6e3M6MjoiaWQiO3M6MTU6IklUdkREMDBVYWNia1hORSI7czoxMDoicGx1Z2lubmFtZSI7czoyNzoic3RhdHNjb3Vyc2Vzb3ZlcnZpZXdjb2x1bW5zIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czo0NzoiJTI1NUIlMjU1QnN0YXRzY291cnNlc292ZXJ2aWV3Y29sdW1ucyUyNTVEJTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo0OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTc6Ik5vK29mK2Vucm9sbG1lbnRzIjtzOjY6ImNvbHVtbiI7czoxNToibm9vZmVucm9sbG1lbnRzIjtzOjc6ImhlYWRpbmciO3M6Mjc6InN0YXRzY291cnNlc292ZXJ2aWV3Y29sdW1ucyI7fX1pOjI7YTo2OntzOjI6ImlkIjtzOjE1OiJtdGFBRTdiMGpqVzM4SzgiO3M6MTA6InBsdWdpbm5hbWUiO3M6Mjc6InN0YXRzY291cnNlc292ZXJ2aWV3Y29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NDc6IiUyNTVCJTI1NUJzdGF0c2NvdXJzZXNvdmVydmlld2NvbHVtbnMlMjU1RCUyNTVEIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjQ6InR5cGUiO3M6MTU6InNlbGVjdGVkY29sdW1ucyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NDp7czo1OiJ2YWx1ZSI7YjoxO3M6OToiY29sdW1uYW1lIjtzOjE3OiJObytvZitDb21wbGV0aW9ucyI7czo2OiJjb2x1bW4iO3M6MTU6Im5vb2Zjb21wbGV0aW9ucyI7czo3OiJoZWFkaW5nIjtzOjI3OiJzdGF0c2NvdXJzZXNvdmVydmlld2NvbHVtbnMiO319aTozO2E6Njp7czoyOiJpZCI7czoxNToiR01kWXptWWVjUXJJSzA4IjtzOjEwOiJwbHVnaW5uYW1lIjtzOjI3OiJzdGF0c2NvdXJzZXNvdmVydmlld2NvbHVtbnMiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjQ3OiIlMjU1QiUyNTVCc3RhdHNjb3Vyc2Vzb3ZlcnZpZXdjb2x1bW5zJTI1NUQlMjU1RCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjQ6e3M6NToidmFsdWUiO2I6MTtzOjk6ImNvbHVtbmFtZSI7czoxNjoiTm8rb2YrSW5wcm9ncmVzcyI7czo2OiJjb2x1bW4iO3M6MTQ6Im5vb2ZpbnByb2dyZXNzIjtzOjc6ImhlYWRpbmciO3M6Mjc6InN0YXRzY291cnNlc292ZXJ2aWV3Y29sdW1ucyI7fX1pOjQ7YTo2OntzOjI6ImlkIjtzOjE1OiJ5RGxRQ2tVYUhnUlhDa0siO3M6MTA6InBsdWdpbm5hbWUiO3M6Mjc6InN0YXRzY291cnNlc292ZXJ2aWV3Y29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NDc6IiUyNTVCJTI1NUJzdGF0c2NvdXJzZXNvdmVydmlld2NvbHVtbnMlMjU1RCUyNTVEIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjQ6InR5cGUiO3M6MTU6InNlbGVjdGVkY29sdW1ucyI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NDp7czo1OiJ2YWx1ZSI7YjoxO3M6OToiY29sdW1uYW1lIjtzOjI1OiJQZXJjZW50YWdlK29mK2NvbXBsZXRpb25zIjtzOjY6ImNvbHVtbiI7czoyMDoicGVyY2VudG9mY29tcGxldGlvbnMiO3M6NzoiaGVhZGluZyI7czoyNzoic3RhdHNjb3Vyc2Vzb3ZlcnZpZXdjb2x1bW5zIjt9fX19czo3OiJmaWx0ZXJzIjthOjE6e3M6ODoiZWxlbWVudHMiO047fXM6MTI6ImNhbGN1bGF0aW9ucyI7YToxOntzOjg6ImVsZW1lbnRzIjtOO31zOjg6Im9yZGVyaW5nIjthOjE6e3M6ODoiZWxlbWVudHMiO047fXM6MTE6InBlcm1pc3Npb25zIjthOjE6e3M6NjoiY29uZmlnIjtPOjg6InN0ZENsYXNzIjozOntzOjEzOiJjb25kaXRpb25leHByIjtzOjA6IiI7czoxNDoiY29uZGl0aW9uZXhwcjEiO047czoxNDoiY29uZGl0aW9uZXhwcjIiO3M6MDoiIjt9fX0=]]></components>
+<export><![CDATA[pdf,csv]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<enablestatistics><![CDATA[1]]></enablestatistics>
+<instance version="2019052008.6"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Courses]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1688737548]]></timecreated>
+<timemodified><![CDATA[1688737548]]></timemodified>
+<title><![CDATA[Course Stats]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[0]]></logo>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-second]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1691677278]]></timecreated>
+<timemodified><![CDATA[1691679811]]></timemodified>
+<title><![CDATA[Course Stats]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[0]]></logo>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Courses]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1692885427]]></timecreated>
+<timemodified><![CDATA[1692885427]]></timemodified>
+<title><![CDATA[Course Stats]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[0]]></logo>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[2023-24_Report]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1695138378]]></timecreated>
+<timemodified><![CDATA[1695138378]]></timemodified>
+<title><![CDATA[Course Overview Stats Report]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[0]]></logo>
+</instance><position version="2019052008.6"></position><instance version="2019052008.6"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-administrator]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-second]]></defaultregion>
+<defaultweight><![CDATA[-4]]></defaultweight>
+<timecreated><![CDATA[1717503174]]></timecreated>
+<timemodified><![CDATA[1717503869]]></timemodified>
+<title><![CDATA[Course Overview Stats Report]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[0]]></logo>
+</instance><position version="2019052008.6"></position></report>
